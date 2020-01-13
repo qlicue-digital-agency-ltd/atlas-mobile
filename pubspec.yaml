@@ -26,6 +26,13 @@ dependencies:
   google_maps_flutter: ^0.5.21+15
   location: ^2.3.5
 
+  # Firebase and Google sing-in dependencies
+  google_sign_in: ^4.1.1
+  firebase_auth: ^0.15.3+1
+  firebase_database: ^3.1.1
+
+  country_pickers: ^1.1.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

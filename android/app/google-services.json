@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372435710854",
+    "firebase_url": "https://atlas-263407.firebaseio.com",
+    "project_id": "atlas-263407",
+    "storage_bucket": "atlas-263407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372435710854:android:fa624f594cd5aaed687207",
+        "android_client_info": {
+          "package_name": "com.qlicue.atlas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372435710854-qu5pmfam2lusrgssb7t87kuhmkjs6e4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qlicue.atlas",
+            "certificate_hash": "f0f9aac30fa410ed6c64859b3157133cd50bb720"
+          }
+        },
+        {
+          "client_id": "372435710854-47eqm4jl955imtctiggnqb1unf8cp28j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzsCSlmei_7P4Ik_Q4teAADJ0ZfLmogdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372435710854-47eqm4jl955imtctiggnqb1unf8cp28j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,4 @@
+import 'package:atlas/pages/auth.dart';
 import 'package:flutter/material.dart';
 import './pages/home.dart';
 
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home: HomePage(title: 'Atlas'),
+      home: Authenticate(),
     );
   }
 }
